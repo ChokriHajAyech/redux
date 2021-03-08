@@ -1,10 +1,3 @@
-//
-//  ReduxTests.swift
-//  ReduxTests
-//
-//  Created by Mobiapps on 08/03/2021.
-//
-
 import XCTest
 @testable import Redux
 

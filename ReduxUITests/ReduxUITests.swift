@@ -1,10 +1,3 @@
-//
-//  ReduxUITests.swift
-//  ReduxUITests
-//
-//  Created by Mobiapps on 08/03/2021.
-//
-
 import XCTest
 
 class ReduxUITests: XCTestCase {

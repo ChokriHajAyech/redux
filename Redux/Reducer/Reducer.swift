@@ -1,10 +1,3 @@
-//
-//  Reducer.swift
-//  Redux
-//
-//  Created by Mobiapps on 08/03/2021.
-//
-
 import Foundation
 
 func reducer(state: AppState, action: Action) -> AppState {

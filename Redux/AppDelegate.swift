@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Redux
-//
-//  Created by Mobiapps on 08/03/2021.
-//
-
 import UIKit
 import CoreData
 
